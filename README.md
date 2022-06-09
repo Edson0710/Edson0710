@@ -2,6 +2,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Edson0710.Edson0710" alt="visitor badge"/>
 </p>
 
+
+
 ![Hi I am Edson](https://github.com/Edson0710/Edson0710/raw/main/resource/edson.gif)
 
 
